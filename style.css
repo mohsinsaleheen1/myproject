@@ -1,0 +1,45 @@
+div{
+    width:400px;
+    height:400px;
+    background-color:red;
+    left:20px;
+    background-image: radial-gradient(circle, violet, indigo, blue, green, yellow, orange, red);    
+    transition:width 2s, height 2s, transform 2s;
+    transition:width 2s, height 2s, transform 2s;
+    position:absolute;
+    }
+    div:hover{
+    background-color:red;
+      transform: rotate(400deg);
+      transform: rotate(400deg);
+    }
+    .div1{
+    width:300px;
+    height:300px;
+    background-color:yellow;
+    left:50px;
+    top:50px;
+    transition:width 2s, height 2s, transform 2s;
+    transition:width 2s, height 2s, transform 2s;
+    position:absolute;
+    }
+    .div1:hover{
+    background-color:yellow;
+      transform: rotate(300deg);
+      transform: rotate(300deg);
+    }
+    .div2{
+    width:200px;
+    height:200px;
+    background-color:green;
+    left:100px;
+    top:100px;
+    transition:width 2s, height 2s, transform 2s;
+    transition:width 2s, height 2s, transform 2s;
+    position:absolute;
+    }
+    .div2:hover{
+    background-color:green;
+      transform: rotate(200deg);
+      transform: rotate(200deg);
+    }
